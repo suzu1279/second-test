@@ -1,0 +1,16 @@
+.header {
+    background: #fff;
+}
+
+.header__inner {
+    margin: 0 auto;
+    padding: 10px 15px;
+    max-width: 1230px;
+}
+
+.header__logo {
+    color: #ffd500;
+    text-decoration: none;
+    font-family: "Caveat", cursive;
+    font-size: 40px;
+}

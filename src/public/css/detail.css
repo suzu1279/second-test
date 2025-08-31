@@ -1,0 +1,121 @@
+.fruit__content--detail {
+    margin: 0 auto;
+    padding: 100px 15px;
+    max-width: 1230px;
+    background-color: #f0f0f0;
+}
+
+.detail {
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+}
+
+.detail__group {
+    margin-bottom: 10px;
+}
+
+.detail__group--label {
+    margin-left: 100px;
+}
+
+.detail__group--label-description{
+    margin-right: 850px;
+}
+
+.detail__label--rule {
+    color: #ff0000;
+}
+
+.detail__error {
+    height: 20px;
+    color: #ff0000;
+    text-align: left;
+}
+
+.detail__input--text input,
+.detail__input--textarea textarea {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    appearance: none;
+}
+
+.detail__input--text input {
+    height: 40px;
+    width: 400px;
+    margin-left: 450px;
+}
+
+.detail__input--textarea textarea {
+    height: 180px;
+    width: 900px;
+    margin-right: 20px;
+}
+
+.detail__float--content{
+    margin-left: 250px;
+    margin-bottom: 30px;
+    float: left;
+}
+
+img{
+    width: 100%;
+    margin-top: -250px;
+    margin-left: -200px;
+}
+
+
+
+.detail__checkbox--season {
+    margin-left: 200px;
+    border-radius: 50%;
+}
+
+.detail__button {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.detail__button-submit {
+    padding: 10px;
+    width: 20%;
+    height: 50px;
+    border: none;
+    border-radius: 3px;
+    background: #ffa500;
+    color: #000;
+    cursor: pointer;
+    margin: 0 auto;
+
+}
+
+.update-form__button{
+    margin-left: 200px;
+    margin-top: -50px;
+}
+
+.detail__button-return {
+    padding: 10px;
+    width: 15%;
+    height: 50px;
+    border: none;
+    border-radius: 3px;
+    background: #ddd;
+    color: #000;
+    cursor: pointer;
+    margin-right: 250px;
+}
+
+.delete-form__button-submit{
+    padding: 10px;
+    width: 5%;
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+    background: #ff0000;
+    color: #000;
+    cursor: pointer;
+    margin-left: 800px;
+}
+

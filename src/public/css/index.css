@@ -1,0 +1,73 @@
+.fruit-content {
+    margin: 0 auto;
+    padding: 30px 15px;
+    max-width: 1230px;
+    background-color: #f0f0f0;
+}
+
+.fruit-content__heading {
+    margin-bottom: 40px;
+    padding-left: 10px;
+    justify-content: space-between;
+    display: flex;
+}
+
+.product__add--submit{
+    background-color: #ffa500;
+    border-color: #ffa500;
+    cursor: pointer;
+    height: 40px;
+    width: 100px;
+}
+
+.main {
+    column-count: 3;
+    width: 1000px;
+    margin-left: 200px;
+    margin-bottom: 50px;
+    height: 500px;
+}
+
+.main img{
+    width: 250px;
+    height: 200px;
+    cursor: pointer;
+}
+
+.aside{
+    margin-top: 10px;
+    width: 200px;
+    height: 30px;
+}
+
+.search-form{
+    width: 150px;
+    height: 30px;
+}
+
+
+.search__button-submit{
+    background-color: #ffa500;
+    width: 150px;
+    height: 30px;
+    margin-top: 10px;
+    border-color: #ffa500;
+    cursor: pointer;
+}
+
+.display{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+.type__of--content{
+    height: 30px;
+    width: 150px;
+}
+
+svg.w-5.h-5 {
+    /*paginateメソッドの矢印の大きさ調整のために追加*/
+    width: 20px;
+    height: 20px;
+}
