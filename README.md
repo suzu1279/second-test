@@ -29,7 +29,7 @@ php db:seed
   
 ER図  
 /Users/tagamisuzuya/coachtech/second-test/src/.drawio.png  
-
+<img width="741" height="252" alt="drawio" src="https://github.com/user-attachments/assets/45897e03-da37-4bcf-85e3-7f80d6eb5529" />
 
 
 URL  
